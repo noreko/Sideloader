@@ -1,6 +1,6 @@
 name: Qt builds
 
-on: workflow_dispatch
+on: push
 
 env:
   BUILD_TYPE: Release
